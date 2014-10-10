@@ -25,6 +25,5 @@ Using your favourite method...
 - remount /system rw
 - copy sshfs to either /system/bin or /system/xbin
 - chmod 755 to /system/bin/sshfs
-- copy all four *.so files to /system/lib
 
 l3iggs has instructions on how to mount a remote file system via sshfs.
